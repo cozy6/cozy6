@@ -24,9 +24,11 @@
 </p>
 
 <div align='center'>
-  <a href='https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Ae8537aa1-efc5-3c09-84a7-533455b2f9d2&viewer%21megaVerb=group-discover'>cv</a>
-  <a href='http://jimmy-lam.vercel.app'>portfolio</a>
+  <a href='https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Ae8537aa1-efc5-3c09-84a7-533455b2f9d2&viewer%21megaVerb=group-discover' style='text-decoration: none; color: inherit;'>📎CV</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href='http://lam-jimmy.vercel.app' style='text-decoration: none; color: inherit;'>Portfolio</a>
 </div>
+
 
 <div align='center'>
 <img src='https://github-readme-stats.vercel.app/api?username=cozy6&show_icons=true&theme=radical&hide=contribs' height='150"'>
