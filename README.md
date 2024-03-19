@@ -35,8 +35,6 @@
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=cozy6&layout=compact&theme=radical' height='150"'>
 </div>
 
-<!--- Test --->
-
 <!--
 <h2 align='left'> 🔨 Technologies & Tools </h2>
 <p>
