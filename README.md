@@ -1,11 +1,9 @@
-<h2 align="center">Hello! I'm Jimmy</h2>
+<h1 align="center">Hello! I'm Jimmy</h1>
 <div align='center'>
   <img src='./git.gif' width='200'>
 </div>
-<h4 align="center", fontweight="100"> Fullstack Developer | UX/UI Designer</h4>
+<h2 align="center", fontweight="100"> Fullstack Developer | UX/UI Designer</h2>
 <p align="center">
-  
-
 <a href="https://www.youtube.com/channel/UClnSjfc5BttbFgWwFhwIRPA?sub_confirmation=1">
   <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UClnSjfc5BttbFgWwFhwIRPA?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/>
 </a>
