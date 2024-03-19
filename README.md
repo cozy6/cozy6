@@ -5,8 +5,8 @@
   <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCn2VFm7Fkd9cuSD6GIJw6mw?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/>
   </a>
 
-  <a href="https://www.youtube.com/@yomashiko2039">
-  <img alt="youtube views" title="YouTube Views" src="https://img.shields.io/youtube/channel/views/UCn2VFm7Fkd9cuSD6GIJw6mw?color=%55960c&logo=youtube&style=for-the-badge&labelColor=488207"/>
+  <a href="https://www.youtube.com/@yomashiko2039" target="blank">
+  <img alt="youtube views" title="YouTube Views" src="https://img.shields.io/youtube/channel/views/UClnSjfc5BttbFgWwFhwIRPA?color=%55960c&logo=youtube&style=for-the-badge&labelColor=488207"/>
   </a>
 
   <a href="https://www.linkedin.com/in/jimmylam6/">
