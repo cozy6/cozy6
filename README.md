@@ -1,4 +1,4 @@
-<h2 align="center"><img src='./git.gif' width='50'>Hello! I'm Jimmy</h2>
+<h2 align="center">Hello! I'm Jimmy</h2>
 <h4 align="center", fontweight="100"> Fullstack Developer | UX/UI Designer</h4>
 <p align="center">
   
@@ -20,6 +20,10 @@
 </a>
 
 </p>
+
+<div align='center'>
+  <img src='./git.gif' width='200'>
+</div>
 
 <div align='center'>
 <img src='https://github-readme-stats.vercel.app/api?username=cozy6&show_icons=true&theme=radical&hide=contribs' height='150"'>
