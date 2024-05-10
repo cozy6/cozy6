@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Jimmy</h1>
+<h1 align="center">Jimmy Lam</h1>
 <div align='center'>
   <img src='./git.gif' width='200'>
 </div>
